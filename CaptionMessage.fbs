@@ -1,0 +1,5 @@
+table CaptionMessage {
+    text: String;
+}
+
+root_type CaptionMessage;
