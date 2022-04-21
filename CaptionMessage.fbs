@@ -1,7 +1,7 @@
 namespace Stenography;
 
 table CaptionMessage {
-    text: String;
+    text: string;
 }
 
 root_type CaptionMessage;
